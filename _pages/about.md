@@ -1,6 +1,6 @@
 
 
-Welcome! I'm **Jing Shujun (荆淑峻)**, a Ph.D. candidate in **Neuroscience** at **Peking University School of Basic Medical Sciences**. My research centers around **brain-computer interfaces**, **multi-modal neural signal decoding**, and **intelligent diagnostic systems** for psychiatric disorders.
+Welcome! I'm **Jing Shujun**, a Ph.D. candidate in **Neuroscience** at **Peking University School of Basic Medical Sciences**. My research centers around **brain-computer interfaces**, **multi-modal neural signal decoding**, and **intelligent diagnostic systems** for psychiatric disorders.
 
 My expertise lies in experimental design and computational analysis in neuroscience and neural dynamics, with ongoing efforts to bridge fundamental neural mechanisms and real-world clinical data.
 
