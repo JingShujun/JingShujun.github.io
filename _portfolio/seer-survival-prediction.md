@@ -87,7 +87,7 @@ model = Pipeline(steps=[
 
 #### 决策树模型预测结果
 
-![决策树模型预测对比](/images/seer-survival-prediction/dt_true_vs_pred.png/)
+![决策树模型预测对比](/images/seer-survival-prediction/dt_true_vs_pred.png)
 
 决策树模型对前1000个样本的预测值与真实值对比，模型能够捕捉到数据的整体趋势，但在细节拟合上存在一定误差。
 
