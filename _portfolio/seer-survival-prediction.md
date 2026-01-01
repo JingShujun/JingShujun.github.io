@@ -1,5 +1,6 @@
 ---
 title: "SEER癌症患者生存月数预测"
+excerpt: "使用三种不同机器学习方法预测SEER数据集内癌症患者生存月数"
 collection: portfolio
 ---
 
