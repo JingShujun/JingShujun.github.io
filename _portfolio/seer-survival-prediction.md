@@ -1,5 +1,5 @@
 ---
-title: "SEER癌症患者生存月数预测“
+title: "SEER癌症患者生存月数预测"
 collection: portfolio
 ---
 
