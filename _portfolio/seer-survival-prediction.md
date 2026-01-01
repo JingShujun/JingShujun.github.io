@@ -98,7 +98,7 @@ model = Pipeline(steps=[
 
 #### SVM模型预测结果
 
-![SVM模型预测对比](images/seer-survival-prediction/svm_true_vs_pred.png)
+![SVM模型预测对比](/images/seer-survival-prediction/svm_true_vs_pred.png)
 
 SVM模型在处理非线性关系上表现较好，但收敛速度较慢，在大数据集上的训练效率较低。
 
