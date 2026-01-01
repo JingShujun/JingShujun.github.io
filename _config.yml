@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+  # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -30,7 +30,7 @@ author:
   location         : "Beijing"
   employer         : "Peking university"
   uri              : # URL
-  email            : "jingshujun25.pku.edu.cn" 
+  email            : "jingshujun25@pku.edu.cn" 
 
   # # Academic websites
   # academia         : # URL
