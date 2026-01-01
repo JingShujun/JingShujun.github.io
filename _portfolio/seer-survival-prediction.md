@@ -1,24 +1,8 @@
-```yaml
 ---
-title: "SEER癌症患者生存月数预测"
+title: "SEER癌症患者生存月数预测“
 collection: portfolio
-type: "Machine Learning"
-permalink: /portfolio/seer-survival-prediction
-date: 2026-01-01
-excerpt: "基于SEER癌症数据集，使用决策树、随机森林与SVM模型预测患者生存月数，对比不同模型性能差异"
-header:
-  teaser: /images/portfolio/seer-survival-prediction/cover.png
-tags:
-- 机器学习
-- 生存分析
-- 医疗数据
-- 预测建模
-tech_stack:
-- name: Python
-- name: Scikit-learn
-- name: Pandas
-- name: Matplotlib
 ---
+
 
 ## 项目背景
 
@@ -102,13 +86,13 @@ model = Pipeline(steps=[
 
 #### 决策树模型预测结果
 
-![决策树模型预测对比](/seer-survival-prediction/dt_true_vs_pred.png)
+![决策树模型预测对比](/images/seer-survival-prediction/dt_true_vs_pred.png/
 
 决策树模型对前1000个样本的预测值与真实值对比，模型能够捕捉到数据的整体趋势，但在细节拟合上存在一定误差。
 
 #### 随机森林模型预测结果
 
-![随机森林模型预测对比](/seer-survival-prediction/rf_true_vs_pred.png)
+![随机森林模型预测对比](/images/seer-survival-prediction/rf_true_vs_pred.png)
 
 随机森林模型通过集成多个决策树，显著提升了预测精度，预测曲线更加贴近真实值。
 
